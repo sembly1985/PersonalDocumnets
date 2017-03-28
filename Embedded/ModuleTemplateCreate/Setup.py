@@ -1,7 +1,11 @@
 import os
+import sys
 
-message = raw_input("Enter: ModuleName(one word captial) UserName(like Zhaopai.Qiu) ModulePurpose(no more than 10 words) > ")
-
+if(sys.version[0]=='2'):
+    message = raw_input("Enter: ModuleName(one word captial) UserName(like Zhaopai.Qiu) ModulePurpose(no more than 10 words) > ")
+else:
+    message = input("Enter: ModuleName(one word captial) UserName(like Zhaopai.Qiu) ModulePurpose(no more than 10 words) > ")
+	
 string = message.split()
 
 ModuleName = string[0]
@@ -20,4 +24,4 @@ length = str(len(string))
 order = "ModuleInitial.bat " + ModuleName + " " + UserName + " " + length + " " + ModulePurpose
 os.system(order)
 
-print ">> Module" + " " + ModuleName + " " + "Created."
+print(">> Module" + " " + ModuleName + " " + "Created.")

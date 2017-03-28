@@ -6,8 +6,8 @@ import re
 
 script, ModuleName, UserName, Folder, ModulePurpose = argv
 
-modulename = string.lower(ModuleName)
-MODULENAME = string.upper(ModuleName)
+modulename = str.lower(ModuleName)
+MODULENAME = str.upper(ModuleName)
 
 ISOTIMEFORMAT = "%Y-%m-%d %X"
 create_time = time.strftime(ISOTIMEFORMAT, time.localtime(time.time()))
