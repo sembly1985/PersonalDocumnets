@@ -1,1 +1,1 @@
-python user_directory_show.py
+python user_list_show.py
