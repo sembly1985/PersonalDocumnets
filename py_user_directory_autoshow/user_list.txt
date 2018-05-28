@@ -1,0 +1,14 @@
+踏车软件git F:\Sembly_Wang\Work\MotoMed_Robot\tache
+个人文件 F:\Sembly_Wang\Personal
+个人Git F:\Sembly_Wang\BaseTech\Library\Git
+踏车Matlab模型 F:\Sembly_Wang\Work\MotoMed_Robot\tache\mainboard\UserProject\Application\MOTOM\Dev\StateFlow\controller_tune
+踏车FW F:\Sembly_Wang\Work\MotoMed_Robot\tache\mainboard\STM32CubeProject\SW4STM32\PhyMotion\Boot_Debug
+SimMechanica F:\Sembly_Wang\BaseTech\simMech
+踏车公共盘 \\10.16.25.81\R&D_Team\Project\产品项目\项目F-上下肢康复训练车VIVA2
+SolidWorks D:\SolidWorks Data
+百度 www.baidu.com
+有道词典 http://dict.youdao.com
+st-link C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility\STM32 ST-LINK Utility.exe
+GitHub https://github.com/
+微软日历 https://outlook.live.com/owa/
+代码库 F:\Sembly_Wang\BaseTech\Library\Git\PersonalDocumnets
